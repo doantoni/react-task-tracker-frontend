@@ -62,7 +62,7 @@ function App() {
         />
 
         <Route
-          path="/react-task-tracker"
+          path="/"
           exact
           render={(props) => (
             <>
@@ -79,7 +79,7 @@ function App() {
             </>
           )}
         />
-        <Route path="/react-task-tracker/about" component={About} />
+        <Route path="/about" component={About} />
         <Footer />
       </div>
     </Router>
