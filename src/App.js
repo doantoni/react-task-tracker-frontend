@@ -17,13 +17,14 @@ function App() {
     },
     {
       id: 2,
-      text: "Meeting at School",
+      text: "Buy Eggs",
       day: "Feb 6th at 1:30PM",
       reminder: "true",
     },
     {
       id: 3,
-      text: "Feb 5th at 2:30PM",
+      text: "Walk Dog",
+      day: "Feb 6th at 1:30PM",
       reminder: true,
     },
   ]);
@@ -62,7 +63,7 @@ function App() {
         />
 
         <Route
-          path="/"
+          path="/react-task-tracker-frontend-app"
           exact
           render={(props) => (
             <>
@@ -79,7 +80,10 @@ function App() {
             </>
           )}
         />
-        <Route path="/about" component={About} />
+        <Route
+          path="/react-task-tracker-frontend-app/about"
+          component={About}
+        />
         <Footer />
       </div>
     </Router>

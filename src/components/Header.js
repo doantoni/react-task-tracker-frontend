@@ -8,9 +8,10 @@ const Header = ({ title, onAdd, showAdd }) => {
   return (
     <header className="header">
       <h1 /* style={headingStyle} */>{title}</h1>
-      {location.pathname === "/" && (
+      {(location.pathname === "/react-task-tracker-frontend-app" ||
+        location.pathname === "/react-task-tracker-frontend-app/") && (
         <Button
-          color={showAdd ? "red" : "green"}
+          color={showAdd ? "black" : "rgb(25, 114, 216)"}
           text={showAdd ? "Close" : "Add"}
           onClick={onAdd}
         />
