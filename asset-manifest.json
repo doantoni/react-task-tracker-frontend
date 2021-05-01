@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/react-task-tracker-frontend-app/static/css/main.9d6184ca.chunk.css",
-    "main.js": "/react-task-tracker-frontend-app/static/js/main.65d9a19c.chunk.js",
-    "main.js.map": "/react-task-tracker-frontend-app/static/js/main.65d9a19c.chunk.js.map",
+    "main.css": "/react-task-tracker-frontend-app/static/css/main.a3bb5000.chunk.css",
+    "main.js": "/react-task-tracker-frontend-app/static/js/main.c3ef6f50.chunk.js",
+    "main.js.map": "/react-task-tracker-frontend-app/static/js/main.c3ef6f50.chunk.js.map",
     "runtime-main.js": "/react-task-tracker-frontend-app/static/js/runtime-main.7ca8a05c.js",
     "runtime-main.js.map": "/react-task-tracker-frontend-app/static/js/runtime-main.7ca8a05c.js.map",
     "static/js/2.63eb73e1.chunk.js": "/react-task-tracker-frontend-app/static/js/2.63eb73e1.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.183ea79d.chunk.js": "/react-task-tracker-frontend-app/static/js/3.183ea79d.chunk.js",
     "static/js/3.183ea79d.chunk.js.map": "/react-task-tracker-frontend-app/static/js/3.183ea79d.chunk.js.map",
     "index.html": "/react-task-tracker-frontend-app/index.html",
-    "static/css/main.9d6184ca.chunk.css.map": "/react-task-tracker-frontend-app/static/css/main.9d6184ca.chunk.css.map",
+    "static/css/main.a3bb5000.chunk.css.map": "/react-task-tracker-frontend-app/static/css/main.a3bb5000.chunk.css.map",
     "static/js/2.63eb73e1.chunk.js.LICENSE.txt": "/react-task-tracker-frontend-app/static/js/2.63eb73e1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7ca8a05c.js",
     "static/js/2.63eb73e1.chunk.js",
-    "static/css/main.9d6184ca.chunk.css",
-    "static/js/main.65d9a19c.chunk.js"
+    "static/css/main.a3bb5000.chunk.css",
+    "static/js/main.c3ef6f50.chunk.js"
   ]
 }
